@@ -17,7 +17,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fhacker-sugartown-mayor-mel-Rpl1sod1vCXK0L2SUN&psig=AOvVaw2nDpD_imfR47eO4yx4a597&ust=1738331831687000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjWwe3MnYsDFQAAAAAdAAAAABAI"  />
 
 ###
 
