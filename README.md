@@ -1,10 +1,14 @@
 ## Hi there 👋
 <h1 align="center"> Hi 👋, I'm Sam J </h1>
-<h3>🚀 CSE Student | AI & ML </h3> 
-<h3>🎓 Studying Computer Science & Engineering (AI & ML Specialization) at Vel Tech High Tech </h3> 
-<h3>💡 Passionate about Machine Learning, Deep Learning, and AI Applications </h3>
-<h3>🔍 Exploring Data Science, NLP, and Computer Vision </h3> 
-<h3>💻 Tech Stack: <br> Programming: Python (Basic), Java (Basic) <br> Web Development: HTML, CSS, JavaScript (Basic)<br> AI/ML Tools: TensorFlow, PyTorch, Scikit-learn <br> Database: SQL</h3>
+🚀 CSE Student | AI & ML </h3> 
+🎓 Studying Computer Science & Engineering (AI & ML Specialization) at Vel Tech High Tech 
+💡 Passionate about Machine Learning, Deep Learning, and AI Applications 
+🔍 Exploring Data Science, NLP, and Computer Vision 
+💻 Tech Stack: 
+           -**Programming:** Python (Basic), Java (Basic) 
+           -**Web Development:** HTML, CSS, JavaScript (Basic) 
+           -**AI/ML Tools: **TensorFlow, PyTorch, Scikit-learn
+           -**Database:** SQ
 
 - 🔭 I’m currently working on **deep learning using the python**
 
