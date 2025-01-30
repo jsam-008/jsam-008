@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Sam J</h1>
-<h3 align="center">🚀 CSE Student | AI & ML <br> 🎓 Studying Computer Science & Engineering (AI & ML Specialization) at Vel Tech High Tech <br> 💡 Passionate about Machine Learning, Deep Learning, and AI Applications <br> 🔍 Exploring Data Science, NLP, and Computer Vision <br> 💻 Tech Stack: Programming: Python (Basic), Java (Basic) Web Development: HTML, CSS, JavaScript (Basic) AI/ML Tools: TensorFlow, PyTorch, Scikit-learn Database: SQL</h3>
+<h3 align="center">🚀 CSE Student | AI & ML <h3> 🎓 Studying Computer Science & Engineering (AI & ML Specialization) at Vel Tech High Tech </h3> 💡 Passionate about Machine Learning, Deep Learning, and AI Applications <br> 🔍 Exploring Data Science, NLP, and Computer Vision <br> 💻 Tech Stack: Programming: Python (Basic), Java (Basic) Web Development: HTML, CSS, JavaScript (Basic) AI/ML Tools: TensorFlow, PyTorch, Scikit-learn Database: SQL</h3>
 
 - 🔭 I’m currently working on **deep learning using the python**
 
