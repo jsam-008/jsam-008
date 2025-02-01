@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sam J</h1>
 <h3 align="center">🚀 Studying Computer Science Engineering | AI & ML 🎓</h3>
+  <h4 align="center"> Vel Tech High Tech Collage </h4>
 
 - 🔭 I’m currently working on **deep learning using the python**
 
